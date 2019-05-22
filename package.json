@@ -1,0 +1,24 @@
+{
+  "name": "express_graphql",
+  "version": "1.0.0",
+  "description": "Express + GraphQL boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Costa",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "^2.5.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "graphql": "^14.3.0",
+    "graphql-iso-date": "^3.6.1",
+    "graphql-subscriptions": "^1.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.10",
+    "morgan": "^1.9.1"
+  }
+}
