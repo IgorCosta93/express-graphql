@@ -1,4 +1,4 @@
-[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
+[![Express Logo](https://i.imgur.com/HSkG8NZ.png)](https://github.com/IgorCosta93/express-graphql)
 
 ## Installation
 
@@ -25,9 +25,9 @@ $ yarn install
 
 ## Docs & Community
 
-  * [Express](https://github.com/expressjs/express)]
-  * [GraphQL](https://github.com/graphql/graphql-js)]
-  * [Apollo Server](https://github.com/apollographql/apollo-server/tree/master/packages/apollo-server-express)]
+  * [Express](https://github.com/expressjs/express)
+  * [GraphQL](https://github.com/graphql/graphql-js)
+  * [Apollo Server](https://github.com/apollographql/apollo-server/tree/master/packages/apollo-server-express)
 
 ## Quick Start
 
