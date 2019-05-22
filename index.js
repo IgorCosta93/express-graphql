@@ -7,7 +7,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('./config/database');
 let jwt = require('jsonwebtoken');
 const schema = require('./graphql/schema');
-const port = process.env.PORT || 3002;
+const port = process.env.PORT || 3000;
 const apollo = new ApolloServer({ 
     schema,
     playground: true, 
