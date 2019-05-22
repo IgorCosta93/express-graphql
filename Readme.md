@@ -1,5 +1,7 @@
 [![Express Logo](https://i.imgur.com/HSkG8NZ.png)](https://github.com/IgorCosta93/express-graphql)
 
+The fasted way to start coding with GraphQL.
+
 ## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
